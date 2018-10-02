@@ -1,0 +1,22 @@
+{
+  "name": "gdoc",
+  "version": "0.1.0",
+  "description": "a simple text editing native application developed by using electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanushka/gDoc.git"
+  },
+  "author": "blk gayan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanushka/gDoc/issues"
+  },
+  "homepage": "https://github.com/kanushka/gDoc#readme",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
